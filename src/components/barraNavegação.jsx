@@ -72,7 +72,7 @@ export function BarraNavegacao() {
 
       <Pressable onPress={() => router.push("/perfil")}>
         <Image
-          source={require("../assets/img/icone-perfil.png")}
+          source={require("../assets/img/icone-perfil.jpg")}
           style={{
             width: 40,
             height: 40,

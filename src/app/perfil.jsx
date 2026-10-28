@@ -220,7 +220,7 @@ export default function Home() {
                         y={469}
                         width={54}
                         height={54}
-                        href={require("../assets/img/icone-perfil.png")}
+                        href={require("../assets/img/icone-perfil.jpg")}
                     />
 
                     {/* texto: "Editar perfil" */}
